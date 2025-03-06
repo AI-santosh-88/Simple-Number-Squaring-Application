@@ -6,13 +6,13 @@
 
 ## Responsibilities:
 #### 1.User Input: 
-The application is responsible for accepting numerical input from the user.
+* The application is responsible for accepting numerical input from the user.
 #### 2.Calculation: 
-It performs the mathematical operation of squaring the input number.
+* It performs the mathematical operation of squaring the input number.
 #### 3.Output Display: 
-It displays the calculated square to the user.
+* It displays the calculated square to the user.
 #### 4.Interface Management: 
-Gradio handles the creation and management of the web interface.
+* Gradio handles the creation and management of the web interface.
 
 ## Library:
 ### Gradio (gr): 

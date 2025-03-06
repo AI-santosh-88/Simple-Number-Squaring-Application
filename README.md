@@ -5,10 +5,14 @@
 * This project creates a basic web application using Gradio that allows users to input a number and receive its square as the output. It demonstrates a fundamental use case of Gradio for quickly building interactive interfaces for Python functions.
 
 ## Responsibilities:
-1.User Input: The application is responsible for accepting numerical input from the user.
-2.Calculation: It performs the mathematical operation of squaring the input number.
-3.Output Display: It displays the calculated square to the user.
-4.Interface Management: Gradio handles the creation and management of the web interface.
+#### 1.User Input: 
+The application is responsible for accepting numerical input from the user.
+#### 2.Calculation: 
+It performs the mathematical operation of squaring the input number.
+#### 3.Output Display: 
+It displays the calculated square to the user.
+#### 4.Interface Management: 
+Gradio handles the creation and management of the web interface.
 
 ## Library:
 ### Gradio (gr): 
